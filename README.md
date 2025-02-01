@@ -1,8 +1,8 @@
-# UnitySafeAreaController
+# UnitySafeAreaSnap
 ![unity](https://img.shields.io/badge/unity-2017.4.29f1-lightgrey.svg)
-![last-commit](https://img.shields.io/github/last-commit/rlatkdgus500/UnitySafeAreaController.svg)
-![issues](https://img.shields.io/github/issues/rlatkdgus500/UnitySafeAreaController.svg)
-![license](https://img.shields.io/github/license/rlatkdgus500/UnitySafeAreaController.svg)
+![last-commit](https://img.shields.io/github/last-commit/dhfmzk/UnitySafeAreaSnap.svg)
+![issues](https://img.shields.io/github/issues/dhfmzk/UnitySafeAreaSnap.svg)
+![license](https://img.shields.io/github/license/dhfmzk/UnitySafeAreaSnap.svg)
 > This plugin allows you to easily check and test the Safe Area for iPhone X in Unity Editor
 
 ## KeyFeature
